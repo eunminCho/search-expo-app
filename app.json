@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "SearchExpoApp",
+    "slug": "search-expo-app",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/icon.png",
+    "newArchEnabled": true,
+    "scheme": "searchexpoapp",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.searchexpoapp.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.searchexpoapp.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-asset",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#ffffff",
+          "image": "./assets/icon.png"
+        }
+      ],
+      "expo-web-browser"
+    ]
+  }
+}

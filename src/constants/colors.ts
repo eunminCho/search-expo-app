@@ -1,0 +1,20 @@
+/** 앱 전역 흑백·그레이 톤 (브랜드 고유 색상 없음) */
+export const AppColors = {
+  white: "#FFFFFF",
+  black: "#000000",
+  textPrimary: "#1A1A1A",
+  textSecondary: "#6D6D70",
+  textSecondaryMuted: "#6D6D707A",
+  border: "#D7D7D9",
+  borderLight: "#E8E8E8",
+  divider: "#E5E5E5",
+  surfacePressed: "#F0F0F0",
+  surfaceSubtle: "#F5F5F5",
+  skeleton: "#E8E8E8",
+  overlay: "#00000080",
+  shadow: "#00000033",
+  modalBorder: "#E8E8E8",
+  buttonPrimary: "#1A1A1A",
+  buttonPrimaryPressed: "#000000",
+  onPrimary: "#FFFFFF",
+} as const;
