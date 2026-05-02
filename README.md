@@ -2,6 +2,8 @@
 
 간단한 검색 기능을 구현한 React Native(Expo) 모바일 앱 (for portfolio)
 
+
+
 ---
 
 ## 1. 앱 기능 설명
@@ -141,3 +143,9 @@ Expo Go 앱으로 실행하려면 다음 변경이 필요합니다.
 - [Expo 문서](https://docs.expo.dev/)
 - [Expo Development Builds](https://docs.expo.dev/develop/development-builds/introduction/)
 - [Continuous Native Generation](https://docs.expo.dev/workflow/continuous-native-generation/)
+
+
+
+<img width="250" alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-02 at 23 50 10" src="https://github.com/user-attachments/assets/4bef069d-0faf-4e18-aa52-82e830888ab3" />
+<img width="250"  alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-02 at 23 50 15" src="https://github.com/user-attachments/assets/f1907519-c78f-4d1c-8c5c-7b02f285a710" />
+<img width="250"  alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-02 at 23 50 33" src="https://github.com/user-attachments/assets/94125eb3-f4d2-4331-95d8-b57bbec0020d" />
